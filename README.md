@@ -32,11 +32,11 @@ All required assets are included within the repository.
    git clone https://github.com/rashedb63/RL-Example.git
 
 2. Open the project in Unity 3D.
-3. Load the main scene, which includes:  
-   3.1. Learning GameObject: Set the Action parameter to:  
-   0 – Identify maze walls  
-   1 – Generate Q-table  
-   3.2. Replay GameObject: Uses the generated Q-table to perform the learned navigation.  
+3. Load the main scene, which includes:<br/>
+   3.1. Learning GameObject: Set the Action parameter to:<br/> 
+   0 – Identify maze walls<br/>
+   1 – Generate Q-table<br/>
+   3.2. Replay GameObject: Uses the generated Q-table to perform the learned navigation.<br/>
 4. Play the scene and observe the training and performance in action.
 
 ## Recommended Usage:
