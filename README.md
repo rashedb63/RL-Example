@@ -2,6 +2,8 @@
 
 This project is a classical maze simulation demonstrating how **Q-Learning** works in a visual, interactive manner using Unity 3D. It is primarily designed for **educational purposes**, helping learners grasp the fundamentals of Reinforcement Learning by visualizing the agent's learning and decision-making process.
 
+![My Screenshot](RL_Example.jpg)
+
 ---
 
 ## Project Overview
